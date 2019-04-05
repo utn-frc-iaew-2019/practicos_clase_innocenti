@@ -1,0 +1,11 @@
+org\iaew\sales\persistence\hibernate\CustomerPromotionPersist.class
+org\iaew\sales\model\ICustomerPromotion.class
+org\iaew\sales\persistence\facade\exception\PersistenceException.class
+org\iaew\sales\persistence\hibernate\HibernateUtil.class
+org\iaew\sales\model\implementation\CustomerPromotion.class
+org\iaew\sales\persistence\hibernate\PersistenceFactory.class
+org\iaew\sales\util\CustomerPromotionResponse.class
+org\iaew\sales\service\CustomerPromotionService$1.class
+org\iaew\sales\persistence\facade\ICustomerPromotionPersist.class
+org\iaew\sales\service\BaseService.class
+org\iaew\sales\service\CustomerPromotionService.class

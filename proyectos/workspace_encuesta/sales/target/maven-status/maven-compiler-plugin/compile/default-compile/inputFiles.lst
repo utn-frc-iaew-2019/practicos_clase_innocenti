@@ -1,0 +1,10 @@
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\persistence\hibernate\CustomerPromotionPersist.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\service\BaseService.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\persistence\facade\ICustomerPromotionPersist.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\persistence\hibernate\PersistenceFactory.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\util\CustomerPromotionResponse.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\persistence\facade\exception\PersistenceException.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\service\CustomerPromotionService.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\model\implementation\CustomerPromotion.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\model\ICustomerPromotion.java
+C:\proyectos\workspace_encuesta\sales\src\main\java\org\iaew\sales\persistence\hibernate\HibernateUtil.java

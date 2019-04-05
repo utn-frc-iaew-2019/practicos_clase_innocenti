@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\proyectos\work_OAuth2.0_AuthCode\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+467924212.index
+2199532086.index
+1678913946.index
+1487936805.index
+2187440789.index
