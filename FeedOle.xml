@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+<channel>
+
+<title> TODA LA INFORMACION DEL FUTBOL - OLE </title>
+<link> http://localhost:8080/FeedOle.xml </link>
+<description> Información actualizada en tiempo real sobre el futbol nacional e internacional </description>
+
+<item>
+<title> Selección Argentina </title>
+<link> http://www.ole.com.ar/rss/seleccion/ </link>
+<description> Toda la información sobre lo que acontece con la selección de Scaloni </description>
+</item>
+
+<item>
+<title> River Plate </title>
+<link> 	http://www.ole.com.ar/rss/river-plate/ </link>
+<description> Mantenete actualizado sobre lo que pasa en el último campeón de América </description>
+</item>
+
+<item>
+<title> Boca Juniors </title>
+<link> 	http://www.ole.com.ar/rss/boca-juniors/ </link>
+<description> No te pierdas nada del equipo de Alfaro </description>
+</item>
+
+<item>
+<title> Champions League </title>
+<link> 	http://www.ole.com.ar/rss/futbol-internacional/champions/ </link>
+<description> Enterate de la última información del torneo de clubes mas importante del mundo </description>
+</item>
+
+
+</channel>
+</rss>
