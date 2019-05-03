@@ -1,0 +1,8 @@
+TEMAS VISTOS CLASE 03/05
+
+Creacion de cuenta en Amazon
+Levantar instancia de Windows
+Levantar instancia de Ubuntu
+http://petstore.swagger.io/#/pet/addPet  SIRVE PARA DOCUMENTAR
+Swagger Editor (cambiar yaml): https://editor.swagger.io/   
+Editor yaml: https://onlineyamltools.com/edit-yaml
