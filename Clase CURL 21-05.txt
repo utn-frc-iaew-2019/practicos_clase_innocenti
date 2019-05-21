@@ -1,0 +1,34 @@
+CURL
+
+TIRO:
+-insecure : se hace el disparo de forma insegura
+-X : indico que a continuacion voy a indicar que tipo de consulta hago: si get post etc
+POST/GET
+URL
+-H : indico que a continuacion voy a ingresar parametros del header
+-d : datos que voy a enviar
+
+RESPUESTA:
+access_token
+scope: hasta donde puedo ir, el alcance
+id_token --> token jwt (encodeado)
+
+jwt.io --> copiar y pegar token
+Header:
+tipo
+id
+tipo de algoritmo
+
+Payload: son los datos
+- at_hash, no interesa
+- sub: a que persona se le dio el token (usuario)
+- iss: el emisor, es quien hace el redirect, quien es el que emite el ticket, es el IDP (identity provider) quien asegura que soy quien digo ser
+- aud: para que audiencia fue dado ese token (aplicacion)
+- auth_time: el horario en el que se produjo la autenticacion
+- exp: cuanto tiempo falta para su caducidad
+- realm: relacion de conjunto de clientes o usuarios que se autentican de la misma forma
+- 
+https://scotch.io/tutorials/the-anatomy-of-a-json-web-token
+
+Si te sugieren usar OAuth 1.0, le decis que si o no, y por que? Pregunta de parcial
+
